@@ -1,1 +1,4 @@
-# Create-Jenkins_windows.md
+Create-Jenkins_windows.md
+copy the directory to the machine the you want to install the jenkins master and run the command
+
+ansible-playbook site.yml
